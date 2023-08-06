@@ -14,7 +14,6 @@
 </div>
 
 ## About me :sparkles:
-<br>
 
 ####  I am Dhruv Varshney, a Creative M.E.R.N. Stack Developer with Proficiency in HTML, CSS, JavaScript and Library/Frameworks like React-JS, Express-JS (MongoDB as database) & Tailwind CSS. Actively looking for an internship/job and ready to give my 100% towards my work. I love to solve DATA STRUCTURES & ALGORITHM problems using C++ and I am pursuing a Bachelor of Technology in Computer Science   ####
 
