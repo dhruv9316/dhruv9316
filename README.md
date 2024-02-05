@@ -46,8 +46,10 @@
 
 ![Leetcode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)
 ![Gfg](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)
+
+<!--
 <hr>
-<!-- <a href = "https://www.dart.dev"> -->
+ <a href = "https://www.dart.dev"> -->
 <!-- <img src="https://dileepabandara.github.io/public-images/gh-rm-t/dart.png" width="50"/> -->
 <!-- </a> -->
 <!-- <a href = "https://flutter.dev">
@@ -64,28 +66,32 @@
 <!-- </a> -->
 <!-- <a href = "https://www.jetbrains.com/idea">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/intellij_idea.png" width="50"/>
-</a> -->
+</a> 
 
 <a href = "https://github.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/github.png" width="50"/>
 </a>
+-->
 <!-- <a href = "https://firebase.google.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/firebase.png" width="50"/>
 </a> -->
 
+<!--
 <a href = "https://visualstudio.microsoft.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/visual_studio.png" width="50"/>
 </a>
 <a href = "https://code.visualstudio.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/visual_studio_code.png" width="50"/>
 </a>
+-->
 <!-- <a href = "https://icons8.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/icons8.png" width="50"/>
 </a> -->
 
+<!--
 <a href = "https://git-scm.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/git.png" width="50"/>
-</a>
+</a> -->
 </div>
 
 <hr>
